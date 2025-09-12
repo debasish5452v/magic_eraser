@@ -23,7 +23,7 @@ mediapipe>=0.8.9
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/magic-eraser.git
+git clone https://github.com/debasish5452v/magic_eraser.git)
 cd magic-eraser
 ```
 
