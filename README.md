@@ -13,7 +13,7 @@ A real-time computer vision application that lets users erase themselves from vi
 
 ## Requirements
 
-```python
+```python 
 opencv-python>=4.5.0
 numpy>=1.19.0
 mediapipe>=0.8.9
