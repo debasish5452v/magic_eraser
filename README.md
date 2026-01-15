@@ -2,7 +2,7 @@
 
 A real-time computer vision application that lets users erase themselves from video using hand gestures, with particle and lightning effects.
 
-## Features 
+## Features
 
 - Real-time hand tracking and gesture recognition
 - Interactive background removal
